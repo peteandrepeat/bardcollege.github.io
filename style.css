@@ -20,6 +20,12 @@ h3{
     line-height: 1.4;
 }
 
+#blink {
+    padding: 20px;
+    font-size: 300%;
+    line-height: 1.4;
+}
+
 a {
     color: #32763F;
     text-decoration: none;
